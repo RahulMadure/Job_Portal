@@ -1,0 +1,17 @@
+<div class="container" *ngIf="candidates">
+    <div class="row">
+      <div class="col-sm" *ngFor="let candidate of candidates">
+        <div  data-testid = "profile-card" class="card">
+          <div class="card-header">
+            Name: {{ candidate.name }}
+          </div>
+          <div class="card-body">
+            <p>Role: {{ candidate.role }}</p>
+            <p>Email: {{ candidate.email }}</p>
+            <p>Skills: {{ candidate.skills.join(', ') }}</p>
+          </div>
+        </div>
+      </div>
+      <div class="w-100"></div>
+    </div>
+  </div>

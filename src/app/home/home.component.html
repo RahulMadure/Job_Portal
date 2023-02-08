@@ -1,0 +1,21 @@
+
+  <mat-toolbar>
+   <span data-testid = nav-heading> iMocha Job Portal</span>
+   <span class="example-spacer"></span>
+    
+   <div class="buttons" >
+    <button data-testid = "nav-home-btn" routerLink="/home" mat-stroked-button color="primary">Home</button>
+   </div>
+
+   <div class="buttons">
+    <button data-testid = "nav-list-btn" routerLink="/home/candlist" mat-stroked-button color="primary">Candidate List</button>
+   </div>
+
+   <div class="buttons" data-testid = "nav-registration-btn" >
+    <button data-testid = "nav-list-btn" routerLink="/home/candregister" mat-stroked-button color="primary">Candidate Registration</button>
+   </div>
+ </mat-toolbar>
+
+ <router-outlet>
+     
+ </router-outlet>

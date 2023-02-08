@@ -1,0 +1,54 @@
+{
+  "Candidates": [
+    {
+      "id": 1,
+      "name": "Rahul",
+      "role": "Software Engineer",
+      "email": "rahulmadure@gmail.com",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "dawda",
+      "role": "dawda",
+      "email": "awdad",
+      "skills": [
+        "dawda"
+      ],
+      "id": 2
+    },
+    {
+      "name": "rasda",
+      "role": "dasdas",
+      "email": "dasda",
+      "skills": [
+        "sasdasd",
+        "dasdasd",
+        "adssad"
+      ],
+      "id": 3
+    },
+    {
+      "name": "akshay",
+      "role": "ase",
+      "email": "ase@gmail.com",
+      "skills": [
+        "java",
+        "python"
+      ]
+    },
+    {
+      "name": "Akshay",
+      "role": "Front End Developer",
+      "email": "aksahy@gmail.com",
+      "skills": [
+        "Java",
+        "Cpp"
+      ],
+      "id": 4
+    }
+  ]
+}
