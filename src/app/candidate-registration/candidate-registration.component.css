@@ -12,6 +12,9 @@
     -webkit-box-shadow: 27px 27px 11px -18px rgba(0,0,0,0.44);
     -moz-box-shadow: 27px 27px 11px -18px rgba(0,0,0,0.44);
     box-shadow: 27px 27px 11px -18px rgba(0,0,0,0.44); */
+
+    padding: 20px;
+    background-color: azure;
 }
 
 .form-group{

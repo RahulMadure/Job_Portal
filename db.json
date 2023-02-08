@@ -12,26 +12,6 @@
       ]
     },
     {
-      "name": "dawda",
-      "role": "dawda",
-      "email": "awdad",
-      "skills": [
-        "dawda"
-      ],
-      "id": 2
-    },
-    {
-      "name": "rasda",
-      "role": "dasdas",
-      "email": "dasda",
-      "skills": [
-        "sasdasd",
-        "dasdasd",
-        "adssad"
-      ],
-      "id": 3
-    },
-    {
       "name": "akshay",
       "role": "ase",
       "email": "ase@gmail.com",
@@ -49,6 +29,28 @@
         "Cpp"
       ],
       "id": 4
+    },
+    {
+      "name": "Ajay Kumar",
+      "role": "Software Developer",
+      "email": "ajaykedia@gmail.com",
+      "skills": [
+        "React js",
+        "Java Script",
+        "Cpp",
+        "C#"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Manish Manohar",
+      "role": "Java Developer",
+      "email": "manish@gmail.com",
+      "skills": [
+        "Java",
+        "Python"
+      ],
+      "id": 6
     }
   ]
 }
